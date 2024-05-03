@@ -114,6 +114,9 @@ params:
   logo: /img/lxed5oe0rlrc.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: QDNA
+      link: https://qdna.it
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
