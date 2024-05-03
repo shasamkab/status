@@ -39,21 +39,74 @@ params:
   systems:
     - name: Hosting
       category: General Datacenter Frankfurt am Main
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
+    - name: Colocation
+      category: General Datacenter Frankfurt am Main
+    - name: Infrastructure Frankfurt
+      description: ""
+      category: General Datacenter Frankfurt am Main
       link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
+    - name: Internet Connection Frankfurt
+      description: ""
+      category: General Datacenter Frankfurt am Main
+    - name: Remote Desktop Gateway
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: Uncategorized
-    - name: Hallo
+      category: Connection Service
+    - name: Internet Connection Frankfurt
+      category: Connection Service
+    - name: Client VPN
+      category: Connection Service
+    - name: nFactor Authentication
+      category: Connection Service
+    - name: Location Connect
+      category: Connection Service
+    - name: Webhosting
+      category: SOLUTIONQLOUD Hosting
+    - name: Domainhosting
+      category: SOLUTIONQLOUD Hosting
+    - name: Storage Cluster Service Frankfurt
+      category: SOLUTIONQLOUD Hosting
+    - name: Server Cluster Service Frankfurt
+      category: SOLUTIONQLOUD Hosting
+    - name: Infrastructure Frankfurt
+      category: SOLUTIONQLOUD Hosting
+    - name: Internet Connection Frankfurt
+      category: SOLUTIONQLOUD Hosting
+    - name: Client VPN
+      category: SOLUTIONQLOUD Hosting
+    - name: nFactor Authentication
+      category: SOLUTIONQLOUD Hosting
+    - name: Location Connect
+      category: SOLUTIONQLOUD Hosting
+    - name: Remote Desktop Gateway
+      category: SOLUTIONQLOUD Colocation
+    - name: Infrastructure Frankfurt
+      description: ""
+      category: SOLUTIONQLOUD Colocation
+    - name: Client VPN
+      category: SOLUTIONQLOUD Colocation
+    - name: nFactor Authentication
+      category: SOLUTIONQLOUD Colocation
+    - name: Location Connect
+      category: SOLUTIONQLOUD Colocation
+    - category: SOLUTIONQLOUD Dedicated
+      name: RADIX Server
+    - name: Managed Backup
+      category: Backup Service
+    - name: HandsOn Backup
+      category: Backup Service
+    - name: Hosted Exchange Service
       category: E-Mail Service
+    - name: Hosted Mail Service
+      category: E-Mail Service
+    - name: E-Mail Antispam Service
+      category: E-Mail Service
+    - name: E-Mail Archive
+      category: E-Mail Service
+    - name: Telephone System Frankfurt
+      category: Telephone System
+    - name: SIP Trunk Provider
+      category: Telephone System
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
