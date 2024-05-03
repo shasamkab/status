@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Maintanance Storage Cluster Service Frankfurt
-date: 2024-04-29T07:00:57.808Z
+date: 2024-04-29T17:30:00.000Z
 resolved: true
 draft: false
 informational: false
