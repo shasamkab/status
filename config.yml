@@ -108,7 +108,7 @@ params:
     - name: SIP Trunk Provider
       category: Telephone System
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#000000"
+  brand: "#181A1B"
   enableLastMod: true
   headerTextColor: white
   logo: /img/lxed5oe0rlrc.png
@@ -121,7 +121,7 @@ params:
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
-  notice: "#ffffff"
+  notice: "#f2e01c"
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
