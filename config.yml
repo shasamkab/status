@@ -71,9 +71,21 @@ params:
     - name: General Datacenter Frankfurt am Main
       description: ""
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+    - name: Connection Service
+      closed: true
+    - name: SOLUTIONQLOUD Hosting
+      untitled: false
+      closed: true
+    - name: SOLUTIONQLOUD Colocation
+      closed: true
+    - name: SOLUTIONQLOUD Dedicated
+      closed: true
+    - name: Backup Service
+      closed: true
+    - name: E-Mail Service
+      closed: true
+    - name: Telephone System
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
