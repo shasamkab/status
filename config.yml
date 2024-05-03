@@ -1,7 +1,7 @@
 title: SOLUTIONQLOUD Status
 buildFuture: true
-defaultContentLanguage: en
-languageCode: en
+defaultContentLanguage: de
+languageCode: de
 baseURL: https://status-solutioncloud.de/
 theme: cstate
 preserveTaxonomyNames: true
