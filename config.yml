@@ -1,8 +1,8 @@
-title: Eggsample Status
+title: SOLUTIONQLOUD Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://status-solutioncloud.de/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
