@@ -41,10 +41,6 @@ params:
       category: General Datacenter Frankfurt am Main
     - name: Colocation
       category: General Datacenter Frankfurt am Main
-    - name: Infrastructure Frankfurt
-      description: ""
-      category: General Datacenter Frankfurt am Main
-      link: https://example.com/
     - name: Internet Connection Frankfurt
       description: ""
       category: General Datacenter Frankfurt am Main
