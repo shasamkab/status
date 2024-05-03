@@ -108,7 +108,7 @@ params:
     - name: SIP Trunk Provider
       category: Telephone System
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#f2e01c"
+  brand: "#000000"
   enableLastMod: true
   headerTextColor: white
   logo: /img/lxed5oe0rlrc.png
